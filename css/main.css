@@ -1,0 +1,86 @@
+
+/*
+ *
+ * Header
+ *
+ */
+
+.h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 38px;
+  color: #3b3b3b;
+  margin-right: 20px;
+  margin-bottom: 2px;
+  padding-top: 35px;
+}
+
+.h3 {
+  font-family: 'Amethysta', serif;
+  font-size: 15px;
+  color:#888888;
+  margin-top: 0px;
+  margin-right: 20px;
+}
+
+.traco{
+  border-bottom: 3px solid #E0E0E0;
+  margin: 10px;
+}
+
+.logo{
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: -25px;
+}
+
+/*
+ *
+ * Main
+ *
+ */
+ .featuredtitle{
+  font-family: 'Scope One', serif;
+  font-size: 24px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  color:#888888;
+}
+
+.link{
+  font-style: italic;
+  font-size: 12px;
+}
+
+/*
+ *
+ * Generic
+ *
+ */
+.center{
+  text-align: center;
+}
+
+.negativemargin{
+  margin-bottom: -20px;
+}
+
+.image{
+  max-width: 100%;
+  padding: 10px;
+}
+
+/*
+ *
+ * Footer
+ *
+ */
+
+footer {
+  border-top: 1px solid #E0E0E0;
+  padding: 1em;
+}
+
+footer li {
+  display: inline-block;
+}
+
